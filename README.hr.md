@@ -9,7 +9,6 @@ Projekt završnog rada.
 
 🎬 **[Pogledaj demo na YouTubeu](https://youtu.be/dugxvRwSdwE)**
 
-<!-- Dodaj screenshotove: docs/screenshot1.png, docs/screenshot2.png -->
 
 ## Značajke
 
@@ -65,7 +64,6 @@ flutter run
 ## Podaci
 
 Baza gnojiva dolazi uz aplikaciju kao lokalna JSON datoteka.
-Izvor: **[ovdje upiši izvor podataka]**.
 
 ## Poznata ograničenja
 
