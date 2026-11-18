@@ -9,7 +9,6 @@ Final thesis project.
 
 🎬 **[Watch the demo on YouTube](https://youtu.be/dugxvRwSdwE)**
 
-<!-- Add screenshots: docs/screenshot1.png, docs/screenshot2.png -->
 
 ## Features
 
@@ -66,7 +65,6 @@ flutter run
 ## Data
 
 The fertilizer dataset is bundled with the app as a local JSON file.
-Source: **[add the source of the dataset here]**.
 
 ## Known Limitations
 
